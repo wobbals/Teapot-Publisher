@@ -20,3 +20,5 @@ the renderbuffer is displayed directly, and we set the publisher's rendering
 receiver to nil. This is not a performance decision, just that I wasn't sure 
 how to get the rendering working if our CAEAGLLayer wasn't being put on the
 screen. You could probably do this without interacting with the view at all.
+
+![Screenshot of app](http://i.imgur.com/LaqvqH3.png)
