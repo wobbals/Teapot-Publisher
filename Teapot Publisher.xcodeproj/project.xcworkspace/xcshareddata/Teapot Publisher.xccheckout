@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>80AE035E-8625-4476-9803-AB51133A27E5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Teapot Publisher</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7755E668-3E77-4AE0-A11A-F16E23213782</key>
+		<string>ssh://github.com/wobbals/Teapot-Publisher.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Teapot Publisher/Teapot Publisher.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7755E668-3E77-4AE0-A11A-F16E23213782</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/wobbals/Teapot-Publisher.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7755E668-3E77-4AE0-A11A-F16E23213782</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7755E668-3E77-4AE0-A11A-F16E23213782</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Teapot-Publisher</string>
+		</dict>
+	</array>
+</dict>
+</plist>
